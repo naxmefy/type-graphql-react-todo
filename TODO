@@ -1,0 +1,19 @@
+TypeGraphQLReact:
+    ✔ Learn TypeGraphQL @done(19-02-10 13:10)
+    ☐ Learn React + GraphQL
+
+Server:
+    ✔ setup app structure @done(19-02-10 12:22)
+    ✔ add .editorconfig file @done(19-02-10 12:22)
+    ✔ setup type-graphql required tsc config @done(19-02-10 12:22)
+    ✔ install required dependencies @done(19-02-10 12:25)
+    ✔ setup app entry point (index.ts) - check examples @done(19-02-10 13:05)
+    ✔ write todo schema - check examples @done(19-02-10 13:05)
+
+Client:
+    ✔ setup react app in client folder @done(19-02-10 14:06)
+    ✔ check requirements for react and graphql @done(19-02-10 14:06)
+    ✔ List Component @done(19-02-10 14:13)
+    ✔ Entry Component @done(19-02-10 14:13)
+    ☐ Form Component to add todo
+    ☐ some design aspects
